@@ -1,36 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Saif Sayeeed Syed
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student MSc Dental Public Health - final stage
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University College London
+  url: https://www.ucl.ac.uk/epidemiology-health-care/study/postgraduate/dental-public-health-msc
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include social inequlaities in health especially oral health, common risk factors of oral and general health especially related to sugar 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Research
+- Data Analysis
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: MSc Dental Public Health
+    institution: UCL
+    year: 2021
+  - course: Bachelor of Dental Surgery
+    institution: Subharti University
+    year: 2019
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
