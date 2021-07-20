@@ -47,9 +47,9 @@ pio.write_json(fig,"file001.json",engine="json")
 fig.write_html("plot001.html")
 ```
 
- # Chart 1:
+## Chart 1: Global Spread of Covid over Time
 
- ![screen reader text](covidplot002.gif "caption")
+![spread of covid](covidpychoro/covidplot002.gif "Spread of Covid")
 
  <!-- {{< chart data="file001" >}} -->
  <!-- <iframe
