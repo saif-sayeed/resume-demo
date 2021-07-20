@@ -24,7 +24,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 100%
+- description: 95%
   icon: stata_svg
   icon_pack: "custom"
   name: Stata

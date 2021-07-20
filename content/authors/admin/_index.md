@@ -13,16 +13,16 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/
+    link: https://twitter.com/saif_human
   - icon: graduation-cap
     icon_pack: fas
-    link: https://
+    link: https://www.ucl.ac.uk/epidemiology-health-care/study/postgraduate/dental-public-health-msc
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://saif-sayeed-resume.netlify.app/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/saif-sayeed-syed-0a32a71b8/
 organizations:
   - name: University College London
     url: https://www.ucl.ac.uk/epidemiology-health-care/study/postgraduate/dental-public-health-msc
@@ -34,12 +34,14 @@ education:
     - course: Bachelor of Dental Surgery
       institution: Subharti University
       year: 2019
-email: ""
+email: "saif.sayeed@gmail.com"
 superuser: true
 highlight_name: false
 ---
 Student of Dental and Public Health at University College London
 
-Key interests: Health Research and Analytics, Social Inequalities, ESG (Environment, Social and Governance) Investments
+Key interests: Health Research and Analytics, Health Inequalities espeically oral health, Excess sugar consumption, ESG (Environment, Social and Governance) Investments
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
