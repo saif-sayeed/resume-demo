@@ -51,6 +51,12 @@ fig.write_html("plot001.html")
 
 ![spread of covid](covidpychoro/covidplot002.gif "Spread of Covid")
 
+Example of Infection rate in China:
+
+
+# Chart 2:
+{{< chart data="ratechina" >}}
+
  <!-- {{< chart data="file001" >}} -->
  <!-- <iframe
        src="https://github.com/saif-sayeed/resume-demo/blob/master/content/post/covid_analysis_python/ch001.html"
