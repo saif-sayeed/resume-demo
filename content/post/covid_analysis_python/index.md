@@ -2,16 +2,16 @@
 title: Animated Covid 19 analysis using Python
 subtitle: Using Plotly's chloropeth graphs and generic python graphing to visualize Covid 19 infection and death rates and the impact of lockdown in various countries.
 # Date published
-#date: "2021-07-20T00:00:00Z"
+# date: "2021-07-20T00:00:00Z"
 date: "2021-07-20"
 
 # Date updated
-#lastmod: "2021-07-20T00:00:00Z"
+# lastmod: "2021-07-20T00:00:00Z"
 
-readingTime: ten
+# readingTime: ten
 
 # Show this page in the Featured widget?
-featured: true
+featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -22,16 +22,13 @@ image:
   preview_only: true
 ---
 
-<!-- <iframe
-       src="./ch001.html"
-       width="90%"
-       height="1000px"
-       style="border:none;">
- </iframe> -->
 
- ### Covid 19 analysis using Python
+### Covid 19 analysis using Python
 
-# Code:
+We use Python to animate the spread of covid around the world. Then we focus on a few countries and see how the impact of lockdown has affected the spred of covid in that country. We further see how the infection rates and death rates are correlated.
+
+## Code:
+
 ```python
 fig = px.choropleth(dfconf, locations='Country', locationmode='country names', color='Confirmed', animation_frame='Date')
 fig.layout.updatemenus[0].buttons[0].args[1]['frame']['duration'] = 30
@@ -51,10 +48,13 @@ fig.write_html("plot001.html")
 ```
 
  # Chart 1:
+
+ ![screen reader text](covidplot002.gif "caption")
+
  <!-- {{< chart data="file001" >}} -->
- <iframe
+ <!-- <iframe
        src="https://github.com/saif-sayeed/resume-demo/blob/master/content/post/covid_analysis_python/ch001.html"
        width="90%"
        height="500px"
        style="border:none;">
- </iframe>
+ </iframe> -->
