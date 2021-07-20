@@ -21,6 +21,7 @@ image:
   placement: 2
   preview_only: true
 ---
+
 <!-- <iframe
        src="./ch001.html"
        width="90%"
@@ -52,7 +53,7 @@ fig.write_html("plot001.html")
  # Chart 1:
  <!-- {{< chart data="file001" >}} -->
  <iframe
-       src="./plot001.html"
+       src="https://github.com/saif-sayeed/resume-demo/blob/master/content/post/covid_analysis_python/ch001.html"
        width="90%"
        height="500px"
        style="border:none;">
