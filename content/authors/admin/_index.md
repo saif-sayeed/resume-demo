@@ -21,7 +21,7 @@ social:
     link: https://saif-sayeed-resume.netlify.app/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/saif-sayeed-syed-0a32a71b8/
+    link: www.linkedin.com/in/saif-sayeed-syed-ucl
 organizations:
   - name: University College London
     url: https://www.ucl.ac.uk/epidemiology-health-care/study/postgraduate/dental-public-health-msc
