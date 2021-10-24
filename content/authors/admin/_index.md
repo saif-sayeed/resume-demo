@@ -1,12 +1,11 @@
 ---
 title: Saif Sayeed Syed
-role: Student MSc Dental Public Health - final term
-bio: My research interests include social inequlaities in health especially oral
-  health, common risk factors of oral and general health especially related to
-  sugar
+role:  MSc Dental Public Health
+bio: My research interests include aspects of universal health coverage, health systems, health promotion and health inequalities with a focus at oral health and sugar
 interests:
-  - Research
+  - Research - Qualtitative and Quantitative
   - Data Analysis
+  - Literature review
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,9 +37,9 @@ email: "saif.sayeed@gmail.com"
 superuser: true
 highlight_name: false
 ---
-Student of Dental and Public Health at University College London
+Dental Public Health MSc at University College London
 
-Key interests: Health Research and Analytics, Health Inequalities espeically oral health, Excess sugar consumption, ESG (Environment, Social and Governance) Investments
+Key interests areas: Health systems, Universal health coverage, Social determinants of health, Excess sugar consumption, ESG (Environment, Social and Governance) Investments and Health Inequalities with a passion towards oral health
 
 <!-- {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 

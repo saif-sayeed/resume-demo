@@ -28,6 +28,10 @@ feature:
   icon: stata_svg
   icon_pack: "custom"
   name: Stata
+- description: 60%
+  icon: R_logo
+  icon_pack: "custom"
+  name: R
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
